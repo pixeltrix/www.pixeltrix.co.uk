@@ -1,0 +1,7 @@
+title: Pixeltrix Ltd
+url: https://www.pixeltrix.co.uk
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CNAME
